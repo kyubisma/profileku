@@ -4,14 +4,14 @@ body{
 }
 .shadow{
 	left: 0;
-	top: 65%;
+	top: 60%;
 	width: 100%;
 	height: 140px;
 	background-color: #808080;
 	position: absolute;
 }
 .header{
-    	opacity: 0.5;
+    opacity: 0.5;
 	top: 0;
 	left: 0;
 	width: 100%;
@@ -35,20 +35,20 @@ a:hover{
 }
 .sampul{
 	position: absolute;
-	top:45px;
+	top:0;
 	left:0;
 	width: 100%;
 }
 .profil{
 	position: absolute;
-	top: 50%;
+	top: 45%;
 	left: 8%;
 	width: 200px;
 }
 .nama{
 	position: absolute;
-	top: 450px;
-	left: 330px;
+	top: 61%;
+	left: 25%;
 	width: 200px;
 	color: #fff;
 	font-size: 36px;
